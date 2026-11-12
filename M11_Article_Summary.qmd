@@ -136,6 +136,7 @@ Baron and Kenny (1986) show that identifying the role of a variable is essential
 
 My biggest takeaway is that understanding relationships between variables is not only about knowing whether two variables are connected. It is also about understanding the conditions and processes behind those relationships.
 
+
 # Reference
 
 Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of Personality and Social Psychology, 51*(6), 1173–1182.
@@ -146,8 +147,8 @@ https://doi.org/10.1037/0022-3514.51.6.1173
 
 ## GitHub Repository
 
-Link: To be added after publishing.
+[View my GitHub Repository](https://github.com/carmenjimenez97/IBM6500-M11-Article-Summary)
 
 ## GitHub Pages
 
-Link: To be added after publishing.
+[View my Published Report](https://carmenjimenez97.github.io/IBM6500-M11-Article-Summary/M11_Article_Summary.html)
