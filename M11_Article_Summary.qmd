@@ -1,0 +1,153 @@
+
+---
+title: "M11 - Article Reading and Summary: Mediation and Moderation"
+author: "Carmen Lia Jimenez Rodriguez"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    theme: cosmo
+---
+
+# Introduction
+
+For this assignment, I reviewed the article *The Moderator-Mediator Variable Distinction in Social Psychological Research* by Baron and Kenny (1986).
+
+The article focuses on two important concepts in research: moderation and mediation. Although these concepts may seem similar, they actually help researchers answer different questions.
+
+The authors explain why it is important to understand these differences before choosing a research method or analyzing data.
+
+# Understanding Moderation
+
+One of the main things I learned from the article is that a moderator helps explain when or under what conditions a relationship between two variables changes.
+
+For example, the article discusses how noise can affect someone's performance depending on whether the noise is predictable or controllable.
+
+This helped me understand that the effect of one variable is not always the same in every situation.
+
+## How Moderation Is Tested
+
+The authors explain that moderation is usually tested by looking at interaction effects.
+
+In regression analysis, researchers examine whether the interaction between the independent variable and the moderator has a significant effect on the outcome.
+
+A basic model is:
+
+$$
+Y = b_0 + b_1X + b_2Z + b_3XZ + e
+$$
+
+Where:
+
+- X represents the independent variable.
+- Z represents the moderator.
+- XZ represents the interaction between them.
+- Y represents the dependent variable.
+
+If the interaction is statistically significant, it suggests that the relationship between X and Y depends on the moderator.
+
+# Understanding Mediation
+
+Mediation is different because it focuses on explaining how or why a relationship happens.
+
+A mediator is a variable that helps explain the process connecting an independent variable to an outcome.
+
+The basic model is:
+
+**X → M → Y**
+
+For example, in marketing research, service quality might influence customer satisfaction, which could then influence a customer's intention to return.
+
+In this example, customer satisfaction would be the mediator because it helps explain how service quality may influence the intention to return.
+
+This is a hypothetical marketing example, not a finding reported in the article.
+
+## How Mediation Is Tested
+
+Baron and Kenny describe three regression equations for testing mediation.
+
+1. First, researchers examine whether the independent variable predicts the mediator.
+2. Next, they examine whether the independent variable predicts the dependent variable.
+3. Finally, they include both the independent variable and the mediator to see whether the mediator helps explain the outcome.
+
+According to the approach presented in the article, evidence of mediation is found when the relationships follow the expected pattern and the effect of the independent variable on the dependent variable becomes smaller after including the mediator.
+
+The authors also explain that researchers need to consider measurement errors because they can affect the interpretation of the results.
+
+# Main Differences Between Moderation and Mediation
+
+The easiest way for me to understand these concepts is to remember that moderation focuses on **when an effect happens**, while mediation focuses on **how or why it happens**.
+
+| Moderation | Mediation |
+|---|---|
+| Explains when or under what conditions an effect changes | Explains how or why an effect occurs |
+| Focuses on the strength or direction of a relationship | Focuses on the process behind a relationship |
+| Uses interaction effects | Examines relationships through regression models |
+| Includes a moderator variable | Includes a mediator variable |
+
+I found this distinction especially helpful because both concepts involve a third variable, but that variable plays a different role in each model.
+
+# Combining Moderation and Mediation
+
+Another interesting point from the article is that moderation and mediation can be studied together.
+
+The authors explain that some research situations may involve both the conditions that influence a relationship and the process that explains it.
+
+For example, they discuss how control and perceived control can play different roles when studying the effects of stress.
+
+This shows that understanding a relationship may require looking at more than one type of variable.
+
+# Key Takeaways
+
+After reading the article, these are the main points I would highlight:
+
+1. Moderation and mediation are not the same, even though both involve a third variable.
+2. A moderator helps explain when or under what conditions a relationship changes.
+3. A mediator helps explain how or why one variable influences another.
+4. Interaction effects are important when testing moderation.
+5. Regression analysis can help researchers examine mediation.
+6. Researchers should consider measurement errors and the limitations of their methods.
+7. Understanding the role of each variable helps researchers select better statistical approaches.
+
+# Personal Reflection and Application
+
+I found this article useful because it helped me understand how different variables can play different roles in a research study.
+
+As a Digital Marketing and Analytics student, I think these concepts are especially relevant when analyzing customer behavior and satisfaction.
+
+For example, in a restaurant customer experience study, I could use mediation to explore whether customer satisfaction helps explain the relationship between service quality and the intention to return.
+
+I could also use moderation to explore whether the relationship between service quality and satisfaction changes depending on the purpose of a customer's visit.
+
+These are possible research applications rather than results from an actual analysis.
+
+What I found most helpful was understanding that before running statistical tests, I need to be clear about what I am trying to explain.
+
+If I want to understand why something happens, mediation may be useful. If I want to understand when or under what conditions a relationship changes, moderation may be more appropriate.
+
+I believe this knowledge will help me develop better research questions and make more informed decisions when analyzing data in future marketing projects.
+
+# Conclusion
+
+Overall, the article helped me better understand the differences between moderation and mediation and why these concepts are important in research.
+
+Baron and Kenny (1986) show that identifying the role of a variable is essential for selecting the appropriate statistical method and interpreting research findings.
+
+My biggest takeaway is that understanding relationships between variables is not only about knowing whether two variables are connected. It is also about understanding the conditions and processes behind those relationships.
+
+# Reference
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of Personality and Social Psychology, 51*(6), 1173–1182.
+
+https://doi.org/10.1037/0022-3514.51.6.1173
+
+# Appendix
+
+## GitHub Repository
+
+Link: To be added after publishing.
+
+## GitHub Pages
+
+Link: To be added after publishing.
